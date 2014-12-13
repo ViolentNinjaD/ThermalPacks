@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ThermalPacks",
+  "name": "Thermal Packs",
+  "description": "Thermal Foundation themed backpacks!",
+  "version": "${mod_version}",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/ViolentNinjaD/ThermalPacks/",
+  "updateUrl": "",
+  "authorList": ["ViolentNinjaD"],
+  "credits": "I, ViolentNinjaD, made this mod :) Thanks to Team CoFH for making Thermal Foundation :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
